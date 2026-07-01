@@ -1,0 +1,6 @@
+{
+  "template": "vite-react",
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false,
+  "view": "browser"
+}
